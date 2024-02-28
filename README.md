@@ -1,7 +1,7 @@
 <h1>NAT: Netowrk Address Translation</h1>
 
 <h2>Description</h2>
-In this lab, Network Address Translation for a small Enterprise. NAT can configured using static NAT, dynamic NAT and PAT. In this lab static NAT and PAT will be used.
+In this lab, Network Address Translation will be configured for a small Enterprise. NAT can configured using static NAT, dynamic NAT and PAT. In this lab static NAT and PAT will be used.
 <br />
 
 <h2>Environments Used </h2>
